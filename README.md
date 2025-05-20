@@ -1,5 +1,5 @@
 # RMAB_NVM
-A main software source code for the paper,
+A main software source code (Python 3.6.13) for the paper,
 
 "Energy efficient deep reinforcement learning for multi armed bandit recommendation system using non-volatile memory crossbar"
 
