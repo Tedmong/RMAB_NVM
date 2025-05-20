@@ -1,7 +1,7 @@
 # RMAB_NVM
 A main software source code for the paper,
 
-Energy efficient deep reinforcement learning for multi armed bandit recommendation system using non-volatile memory crossbar
+"Energy efficient deep reinforcement learning for multi armed bandit recommendation system using non-volatile memory crossbar"
 
 Minseong Park, Hung-Ta Chien, Wei-Chen Chen, Arjuman Ara Mimi, Weier Wan, Kyung Seok Woo, Su-in Yi, & Suhas Kumar
 
